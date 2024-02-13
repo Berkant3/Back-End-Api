@@ -8,6 +8,6 @@ Html,Css ,JavaScript ve NodeJs
 
 
 
-<h1>Ekran Görüntüsü</h1>>
+<h1>Ekran Görüntüsü</h1>
 
 ![](backend.gif)
